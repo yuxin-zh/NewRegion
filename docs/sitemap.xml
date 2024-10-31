@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://yuxin-zh.github.io/NewRegion/categories/</loc>
-  </url><url>
-    <loc>https://yuxin-zh.github.io/NewRegion/</loc>
-  </url><url>
-    <loc>https://yuxin-zh.github.io/NewRegion/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://yuxin-zh.github.io/NewRegion/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://yuxin-zh.github.io/NewRegion/zh-cn/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://yuxin-zh.github.io/NewRegion/ar/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

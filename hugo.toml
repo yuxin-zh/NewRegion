@@ -1,4 +1,0 @@
-baseURL = 'https://yuxin-zh.github.io/NewRegion'
-publishDir = "docs"
-languageCode = 'en-us'
-title = 'My New Hugo Site'
