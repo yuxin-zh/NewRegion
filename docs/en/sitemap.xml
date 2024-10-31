@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yuxin-zh.github.io/NewRegion/p/blog/</loc>
+    <lastmod>2024-10-31T21:47:33+08:00</lastmod>
+  </url><url>
+    <loc>https://yuxin-zh.github.io/NewRegion/</loc>
+    <lastmod>2024-10-31T21:47:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://yuxin-zh.github.io/NewRegion/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://yuxin-zh.github.io/NewRegion/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yuxin-zh.github.io/NewRegion/"
+                />
+  </url><url>
+    <loc>https://yuxin-zh.github.io/NewRegion/post/</loc>
+    <lastmod>2024-10-31T21:47:33+08:00</lastmod>
+  </url><url>
     <loc>https://yuxin-zh.github.io/NewRegion/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -17,23 +41,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://yuxin-zh.github.io/NewRegion/categories/"
-                />
-  </url><url>
-    <loc>https://yuxin-zh.github.io/NewRegion/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://yuxin-zh.github.io/NewRegion/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://yuxin-zh.github.io/NewRegion/ar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://yuxin-zh.github.io/NewRegion/"
                 />
   </url><url>
     <loc>https://yuxin-zh.github.io/NewRegion/tags/</loc>

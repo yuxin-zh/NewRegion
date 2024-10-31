@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Example Site</title>
-        <link>https://yuxin-zh.github.io/NewRegion/</link>
-        <description>Recent content on Example Site</description>
+        <title>Posts on Example Site</title>
+        <link>https://yuxin-zh.github.io/NewRegion/post/</link>
+        <description>Recent content in Posts on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Thu, 31 Oct 2024 21:47:33 +0800</lastBuildDate><atom:link href="https://yuxin-zh.github.io/NewRegion/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 31 Oct 2024 21:47:33 +0800</lastBuildDate><atom:link href="https://yuxin-zh.github.io/NewRegion/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Blog</title>
         <link>https://yuxin-zh.github.io/NewRegion/p/blog/</link>
         <pubDate>Thu, 31 Oct 2024 21:47:33 +0800</pubDate>
