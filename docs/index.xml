@@ -7,7 +7,69 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Thu, 31 Oct 2024 21:55:17 +0800</lastBuildDate><atom:link href="https://yuxin-zh.github.io/NewRegion/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 11 Nov 2024 14:45:44 +0800</lastBuildDate><atom:link href="https://yuxin-zh.github.io/NewRegion/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Fusion</title>
+        <link>https://yuxin-zh.github.io/NewRegion/p/fusion/</link>
+        <pubDate>Mon, 11 Nov 2024 14:45:44 +0800</pubDate>
+        
+        <guid>https://yuxin-zh.github.io/NewRegion/p/fusion/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://yuxin-zh.github.io/NewRegion/NewRegion/p/fusion/1.png&#34;
+	width=&#34;1084&#34;
+	height=&#34;678&#34;
+	srcset=&#34;https://yuxin-zh.github.io/NewRegion/NewRegion/p/fusion/1_hu803293254476764660.png 480w, https://yuxin-zh.github.io/NewRegion/NewRegion/p/fusion/1_hu11913344259832010611.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Fusion img&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;159&#34;
+		data-flex-basis=&#34;383px&#34;
+	
+&gt; &lt;img src=&#34;https://yuxin-zh.github.io/NewRegion/NewRegion/p/fusion/2.png&#34;
+	width=&#34;1239&#34;
+	height=&#34;916&#34;
+	srcset=&#34;https://yuxin-zh.github.io/NewRegion/NewRegion/p/fusion/2_hu2263863636173875693.png 480w, https://yuxin-zh.github.io/NewRegion/NewRegion/p/fusion/2_hu5177971912262399641.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Presentation&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;135&#34;
+		data-flex-basis=&#34;324px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yuxin-zh.github.io/NewRegion/NewRegion/p/fusion/3.png&#34;
+	width=&#34;1156&#34;
+	height=&#34;615&#34;
+	srcset=&#34;https://yuxin-zh.github.io/NewRegion/NewRegion/p/fusion/3_hu5951822729499831163.png 480w, https://yuxin-zh.github.io/NewRegion/NewRegion/p/fusion/3_hu153667981293122460.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;original img&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;187&#34;
+		data-flex-basis=&#34;451px&#34;
+	
+&gt; &lt;img src=&#34;https://yuxin-zh.github.io/NewRegion/NewRegion/p/fusion/4.png&#34;
+	width=&#34;959&#34;
+	height=&#34;918&#34;
+	srcset=&#34;https://yuxin-zh.github.io/NewRegion/NewRegion/p/fusion/4_hu2288848652521099697.png 480w, https://yuxin-zh.github.io/NewRegion/NewRegion/p/fusion/4_hu15099625501293569138.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Presentation&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;104&#34;
+		data-flex-basis=&#34;250px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Hello Img</title>
         <link>https://yuxin-zh.github.io/NewRegion/p/hello-img/</link>
         <pubDate>Thu, 31 Oct 2024 21:55:17 +0800</pubDate>
